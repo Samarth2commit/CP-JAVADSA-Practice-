@@ -109,7 +109,7 @@ class Demo {
             newZealandPoints = 0;
 
             System.out.println();
-            System.out.println("🏆 INDIA WON!");
+            System.out.println(" INDIA WON!");
 
         }
 
@@ -119,7 +119,7 @@ class Demo {
             newZealandPoints = 2;
 
             System.out.println();
-            System.out.println("🏆 NEW ZEALAND WON!");
+            System.out.println(" NEW ZEALAND WON!");
 
         }
 
@@ -129,7 +129,7 @@ class Demo {
             newZealandPoints = 1;
 
             System.out.println();
-            System.out.println("🤝 MATCH DRAW!");
+            System.out.println(" MATCH DRAW!");
 
         }
 
